@@ -19,5 +19,8 @@
         "campaignchain/campaign-scheduled": "dev-master",
         "campaignchain/milestone-scheduled": "dev-master",
         "campaignchain/report-analytics-metrics-per-activity": "dev-master"
+    },
+    "autoload": {
+        "psr-4": { "CampaignChain\\DistributionCeBundle\\": "" }
     }
 }
