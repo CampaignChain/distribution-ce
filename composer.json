@@ -1,0 +1,23 @@
+{
+    "name": "campaignchain/distribution-ce",
+    "description": "Community Edition of CampaignChain.",
+    "keywords": ["campaignchain","community edition", "ce", "distribution"],
+    "type": "campaignchain-distribution",
+    "homepage": "http://www.campaignchain.com",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Sandro Groganz",
+            "email": "sandro@campaignchain.com"
+        }
+    ],
+    "require": {
+        "campaignchain/core": "dev-master",
+        "campaignchain/activity-facebook": "dev-master",
+        "campaignchain/activity-linkedin": "dev-master",
+        "campaignchain/activity-twitter": "dev-master",
+        "campaignchain/campaign-scheduled": "dev-master",
+        "campaignchain/milestone-scheduled": "dev-master",
+        "campaignchain/report-analytics-metrics-per-activity": "dev-master"
+    }
+}

@@ -1,0 +1,27 @@
+# This file is part of the CampaignChain package.
+#
+# (c) Sandro Groganz <sandro@campaignchain.com>
+#
+# For the full copyright and license information, please view the LICENSE
+# file that was distributed with this source code.
+
+# The display name of the distribution.
+name: CampaignChain Community Edition
+
+# Path to bundle assets relative to Symfony's web/ directory, for example:
+# bundles/yourbundledirectory/.
+assets_path: bundles/campaignchaindistributionce/
+
+# Path to logo relative to Resources/public/ directory. PNG or JPG.
+logo: images/campaignchain_logo.png
+
+# Path to CSS stylesheet relative to Resources/public/ directory.
+style:
+
+# Definition of available sample data, which should be stored in Resources/data/.
+# Put the name of the YML files here that contain the data (e.g. 'mydata.yml',
+# which would correspond to Resources/data/mydata.yml). Learn more about the
+# sample data format here: https://github.com/nelmio/alice/blob/master/README.md.
+data:
+    name: Community Edition
+    file: ce.yml
