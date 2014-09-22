@@ -12,6 +12,7 @@
         }
     ],
     "require": {
+        "symfony/symfony": "~2.5",
         "campaignchain/core": "dev-master",
         "campaignchain/activity-facebook": "dev-master",
         "campaignchain/activity-linkedin": "dev-master",
