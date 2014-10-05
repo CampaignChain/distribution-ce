@@ -8,6 +8,9 @@
 # The display name of the distribution.
 name: CampaignChain Community Edition
 
+# The release version
+version: dev-master
+
 # Path to bundle assets relative to Symfony's web/ directory, for example:
 # bundles/yourbundledirectory/.
 assets_path: bundles/campaignchaindistributionce/
