@@ -13,15 +13,15 @@
     ],
     "require": {
         "symfony/symfony": "~2.5",
-        "campaignchain/core": "dev-master",
-        "campaignchain/activity-facebook": "dev-master",
-        "campaignchain/activity-linkedin": "dev-master",
-        "campaignchain/activity-twitter": "dev-master",
-        "campaignchain/location-website": "dev-master",
-        "campaignchain/campaign-scheduled": "dev-master",
-        "campaignchain/milestone-scheduled": "dev-master",
-        "campaignchain/report-analytics-metrics-per-activity": "dev-master",
-        "campaignchain/doc-html": "dev-master"
+        "campaignchain/core": "dev-1.0.0-alpha.2",
+        "campaignchain/activity-facebook": "dev-1.0.0-alpha.2",
+        "campaignchain/activity-linkedin": "dev-1.0.0-alpha.2",
+        "campaignchain/activity-twitter": "dev-1.0.0-alpha.2",
+        "campaignchain/location-website": "dev-1.0.0-alpha.2",
+        "campaignchain/campaign-scheduled": "dev-1.0.0-alpha.2",
+        "campaignchain/milestone-scheduled": "dev-1.0.0-alpha.2",
+        "campaignchain/report-analytics-metrics-per-activity": "dev-1.0.0-alpha.2",
+        "campaignchain/doc-html": "dev-1.0.0-alpha.2"
     },
     "autoload": {
         "psr-4": { "CampaignChain\\DistributionCeBundle\\": "" }
