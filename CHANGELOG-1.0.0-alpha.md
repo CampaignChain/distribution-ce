@@ -1,5 +1,5 @@
-CHANGELOG for 1.0.0-alpha
-=========================
+Changelog for CampaignChain Community Edition 1.0.0-alpha
+=========================================================
 
 This changelog references the relevant changes done in 1.0.0-alpha.x releases.
 
