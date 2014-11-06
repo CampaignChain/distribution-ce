@@ -15,8 +15,11 @@ version: dev-1.0.0-alpha.3
 # bundles/yourbundledirectory/.
 assets_path: bundles/campaignchaindistributionce/
 
-# Path to logo relative to Resources/public/ directory. PNG or JPG.
+# Path to logo logo relative to Resources/public/ directory. PNG or JPG.
 logo: images/logo.png
+
+# Path to brand icon relative to Resources/public/ directory. PNG or JPG.
+icon: images/icon.png
 
 # Path to CSS stylesheet relative to Resources/public/ directory.
 style: css/distribution.css
