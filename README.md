@@ -1,13 +1,9 @@
-CampaignChain Community Edition
-===============================
+Distribution Bundle of CampaignChain Community Edition
+======================================================
 
-Learn more about CampaignChain at http://www.campaignchain.com
+This code is not the Community Edition itself. Instead, it is a Symfony bundle
+with the main purpose of defining which other bundles the Community Edition
+consists of.
 
-Find the installation instructions at
-http://doc.campaignchain.com/current/administrator/installation/ce.html
-
-Find help on the users mailing list
-https://lists.sourceforge.net/lists/listinfo/campaignchain-user
-
-Report issues at
-https://campaignchain.atlassian.net
+Download the full CampaignChain Community Edition at
+http://www.campaignchain.com/download/

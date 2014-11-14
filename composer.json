@@ -4,7 +4,7 @@
     "keywords": ["campaignchain","community edition", "ce", "distribution"],
     "type": "campaignchain-distribution",
     "homepage": "http://www.campaignchain.com",
-    "license": "GPL-3.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Sandro Groganz",
