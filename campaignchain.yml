@@ -31,3 +31,9 @@ style: css/distribution.css
 data:
     name: Community Edition
     file: ce.yml
+
+# Configuration of modules installation client.
+modules:
+    # The base URLs of the modules repositories.
+    repositories:
+        - http://store.campaignchain.com/modules/

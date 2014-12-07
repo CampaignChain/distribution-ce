@@ -25,5 +25,14 @@
     },
     "autoload": {
         "psr-4": { "CampaignChain\\DistributionCeBundle\\": "" }
+    },
+    "extra": {
+        "campaignchain": {
+            "kernel": {
+                "classes": [
+                    "CampaignChain\\DistributionCeBundle\\CampaignChainDistributionCeBundle"
+                ]
+            }
+        }
     }
 }
