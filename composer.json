@@ -4,7 +4,7 @@
     "keywords": ["campaignchain","community edition", "ce", "distribution"],
     "type": "campaignchain-distribution",
     "homepage": "http://www.campaignchain.com",
-    "license": "GPL-3.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Sandro Groganz",
@@ -13,17 +13,22 @@
     ],
     "require": {
         "symfony/symfony": "~2.5",
-        "campaignchain/core": "1.0.0-alpha.2",
-        "campaignchain/activity-facebook": "1.0.0-alpha.2",
-        "campaignchain/activity-linkedin": "1.0.0-alpha.2",
-        "campaignchain/activity-twitter": "1.0.0-alpha.2",
-        "campaignchain/location-website": "1.0.0-alpha.2",
-        "campaignchain/campaign-scheduled": "1.0.0-alpha.2",
-        "campaignchain/milestone-scheduled": "1.0.0-alpha.2",
-        "campaignchain/report-analytics-metrics-per-activity": "1.0.0-alpha.2",
-        "campaignchain/doc-html": "1.0.0-alpha.2"
+        "campaignchain/core": "1.0.0-alpha.3",
+        "campaignchain/campaign-scheduled": "1.0.0-alpha.3",
+        "campaignchain/milestone-scheduled": "1.0.0-alpha.3",
+        "campaignchain/report-analytics-metrics-per-activity": "1.0.0-alpha.3",
+        "campaignchain/doc-html": "1.0.0-alpha.3"
     },
     "autoload": {
         "psr-4": { "CampaignChain\\DistributionCeBundle\\": "" }
+    },
+    "extra": {
+        "campaignchain": {
+            "kernel": {
+                "classes": [
+                    "CampaignChain\\DistributionCeBundle\\CampaignChainDistributionCeBundle"
+                ]
+            }
+        }
     }
 }

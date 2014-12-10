@@ -9,14 +9,17 @@
 name: CampaignChain Community Edition
 
 # The release version
-version: 1.0.0-alpha.2
+version: 1.0.0-alpha.3
 
 # Path to bundle assets relative to Symfony's web/ directory, for example:
 # bundles/yourbundledirectory/.
 assets_path: bundles/campaignchaindistributionce/
 
-# Path to logo relative to Resources/public/ directory. PNG or JPG.
+# Path to logo logo relative to Resources/public/ directory. PNG or JPG.
 logo: images/logo.png
+
+# Path to brand icon relative to Resources/public/ directory. PNG or JPG.
+icon: images/icon.png
 
 # Path to CSS stylesheet relative to Resources/public/ directory.
 style: css/distribution.css
@@ -28,3 +31,9 @@ style: css/distribution.css
 data:
     name: Community Edition
     file: ce.yml
+
+# Configuration of modules installation client.
+modules:
+    # The base URLs of the modules repositories.
+    repositories:
+        - http://store.campaignchain.com/modules/
