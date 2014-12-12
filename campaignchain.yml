@@ -9,7 +9,7 @@
 name: CampaignChain Community Edition
 
 # The release version
-version: 1.0.0-alpha.3
+version: dev-1.0.0-alpha.4
 
 # Path to bundle assets relative to Symfony's web/ directory, for example:
 # bundles/yourbundledirectory/.
@@ -37,3 +37,5 @@ modules:
     # The base URLs of the modules repositories.
     repositories:
         - http://store.campaignchain.com/modules/
+    repositories-dev:
+        - http://store.campaignchain.com/modules/dev/
