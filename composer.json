@@ -12,7 +12,6 @@
         }
     ],
     "require": {
-        "symfony/symfony": "~2.5",
         "campaignchain/core": "dev-1.0.0-alpha.4",
         "campaignchain/campaign-scheduled": "dev-1.0.0-alpha.4",
         "campaignchain/milestone-scheduled": "dev-1.0.0-alpha.4",
