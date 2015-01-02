@@ -25,7 +25,8 @@
         "campaignchain": {
             "kernel": {
                 "classes": [
-                    "CampaignChain\\DistributionCeBundle\\CampaignChainDistributionCeBundle"
+                    "CampaignChain\\DistributionCeBundle\\CampaignChainDistributionCeBundle",
+                    "CampaignChain\\DocHtmlBundle\\CampaignChainDocHtmlBundle"
                 ]
             }
         }
