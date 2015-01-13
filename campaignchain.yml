@@ -28,9 +28,9 @@ style: css/distribution.css
 # Put the name of the YML files here that contain the data (e.g. 'mydata.yml',
 # which would correspond to Resources/data/mydata.yml). Learn more about the
 # sample data format here: https://github.com/nelmio/alice/blob/master/README.md.
-data:
-    name: Community Edition
-    file: ce.yml
+#data:
+#    name: Community Edition
+#    file: ce.yml
 
 # Configuration of modules installation client.
 modules:
