@@ -12,10 +12,10 @@
         }
     ],
     "require": {
-        "campaignchain/core": "dev-1.0.0-alpha.4",
-        "campaignchain/campaign-scheduled": "dev-1.0.0-alpha.4",
-        "campaignchain/milestone-scheduled": "dev-1.0.0-alpha.4",
-        "campaignchain/report-analytics-metrics-per-activity": "dev-1.0.0-alpha.4",
+        "campaignchain/core": "1.0.0-alpha.4",
+        "campaignchain/campaign-scheduled": "1.0.0-alpha.4",
+        "campaignchain/milestone-scheduled": "1.0.0-alpha.4",
+        "campaignchain/report-analytics-metrics-per-activity": "1.0.0-alpha.4",
         "campaignchain/doc-html": "1.0.0-alpha.3"
     },
     "autoload": {
