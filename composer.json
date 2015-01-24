@@ -14,8 +14,8 @@
     "minimum-stability": "dev",
     "require": {
         "campaignchain/core": "dev-1.0.0-beta.1",
-        "campaignchain/campaign-scheduled": "1.0.0-alpha.4",
-        "campaignchain/milestone-scheduled": "1.0.0-alpha.4",
+        "campaignchain/campaign-scheduled": "dev-1.0.0-beta.1",
+        "campaignchain/milestone-scheduled": "dev-1.0.0-beta.1",
         "campaignchain/report-analytics-metrics-per-activity": "dev-1.0.0-beta.1",
         "campaignchain/doc-html": "1.0.0-alpha.3"
     },
