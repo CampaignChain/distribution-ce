@@ -16,6 +16,7 @@
         "campaignchain/campaign-scheduled": "dev-1.0.0-beta.1",
         "campaignchain/milestone-scheduled": "dev-1.0.0-beta.1",
         "campaignchain/report-analytics-metrics-per-activity": "dev-1.0.0-beta.1",
+        "campaignchain/report-analytics-cta-tracking": "dev-master",
         "campaignchain/doc-html": "1.0.0-alpha.3"
     },
     "autoload": {
