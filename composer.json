@@ -12,16 +12,16 @@
         }
     ],
     "require": {
-        "campaignchain/core": "dev-1.0.0-beta.1",
-        "campaignchain/campaign-scheduled": "dev-1.0.0-beta.1",
-        "campaignchain/milestone-scheduled": "dev-1.0.0-beta.1",
-        "campaignchain/activity-twitter": "dev-1.0.0-beta.1",
-        "campaignchain/activity-facebook": "dev-1.0.0-beta.1",
-        "campaignchain/activity-linkedin": "dev-1.0.0-beta.1",
-        "campaignchain/activity-gotowebinar": "dev-1.0.0-beta.1",
-        "campaignchain/location-website": "dev-1.0.0-beta.1",
-        "campaignchain/report-analytics-metrics-per-activity": "dev-1.0.0-beta.1",
-        "campaignchain/report-analytics-cta-tracking": "dev-1.0.0-beta.1",
+        "campaignchain/core": "1.0.0-beta.1",
+        "campaignchain/campaign-scheduled": "1.0.0-beta.1",
+        "campaignchain/milestone-scheduled": "1.0.0-beta.1",
+        "campaignchain/activity-twitter": "1.0.0-beta.1",
+        "campaignchain/activity-facebook": "1.0.0-beta.1",
+        "campaignchain/activity-linkedin": "1.0.0-beta.1",
+        "campaignchain/activity-gotowebinar": "1.0.0-beta.1",
+        "campaignchain/location-website": "1.0.0-beta.1",
+        "campaignchain/report-analytics-metrics-per-activity": "1.0.0-beta.1",
+        "campaignchain/report-analytics-cta-tracking": "1.0.0-beta.1",
         "campaignchain/doc-html": "1.0.0-alpha.3"
     },
     "autoload": {
