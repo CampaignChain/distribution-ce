@@ -12,10 +12,23 @@
         }
     ],
     "require": {
+<<<<<<< HEAD
         "campaignchain/core": "dev-master",
         "campaignchain/campaign-scheduled": "dev-master",
         "campaignchain/milestone-scheduled": "dev-master",
         "campaignchain/report-analytics-metrics-per-activity": "dev-master",
+=======
+        "campaignchain/core": "dev-master",
+        "campaignchain/campaign-scheduled": "dev-master",
+        "campaignchain/milestone-scheduled": "dev-master",
+        "campaignchain/activity-twitter": "dev-master",
+        "campaignchain/activity-facebook": "dev-master",
+        "campaignchain/activity-linkedin": "dev-master",
+        "campaignchain/activity-gotowebinar": "dev-master",
+        "campaignchain/location-website": "dev-master",
+        "campaignchain/report-analytics-metrics-per-activity": "dev-master",
+        "campaignchain/report-analytics-cta-tracking": "dev-master",
+>>>>>>> 1.0.0-beta.1
         "campaignchain/doc-html": "1.0.0-alpha.3"
     },
     "autoload": {
