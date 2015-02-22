@@ -19,6 +19,8 @@
         "campaignchain/activity-facebook": "dev-master",
         "campaignchain/activity-linkedin": "dev-master",
         "campaignchain/activity-gotowebinar": "dev-master",
+        "campaignchain/channel-mailchimp": "dev-master",
+        "campaignchain/location-mailchimp": "dev-master",
         "campaignchain/location-website": "dev-master",
         "campaignchain/report-analytics-metrics-per-activity": "dev-master",
         "campaignchain/report-analytics-cta-tracking": "dev-master",
