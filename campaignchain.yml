@@ -9,7 +9,7 @@
 name: CampaignChain Community Edition
 
 # The release version
-version: 1.0.0-beta.1
+version: dev-master
 
 # Path to bundle assets relative to Symfony's web/ directory, for example:
 # bundles/yourbundledirectory/.
