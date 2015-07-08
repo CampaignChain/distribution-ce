@@ -15,6 +15,7 @@
         "campaignchain/core": "dev-master",
         "campaignchain/campaign-scheduled": "dev-master",
         "campaignchain/campaign-template": "dev-master",
+        "campaignchain/campaign-repeating": "dev-master",
         "campaignchain/milestone-scheduled": "dev-master",
         "campaignchain/activity-twitter": "dev-master",
         "campaignchain/activity-facebook": "dev-master",
