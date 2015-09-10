@@ -24,8 +24,7 @@
         "campaignchain/activity-mailchimp": "dev-master",
         "campaignchain/location-website": "dev-master",
         "campaignchain/report-analytics-metrics-per-activity": "dev-master",
-        "campaignchain/report-analytics-cta-tracking": "dev-master",
-        "campaignchain/doc-html": "1.0.0-alpha.3"
+        "campaignchain/report-analytics-cta-tracking": "dev-master"
     },
     "autoload": {
         "psr-4": { "CampaignChain\\DistributionCeBundle\\": "" }
