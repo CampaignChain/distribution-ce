@@ -1,6 +1,6 @@
 {
     "name": "campaignchain/distribution-ce",
-    "description": "Community Edition of CampaignChain.",
+    "description": "Distribution configuration for the Community Edition of CampaignChain.",
     "keywords": ["campaignchain","community edition"],
     "type": "campaignchain-distribution",
     "homepage": "http://www.campaignchain.com",
