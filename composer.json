@@ -1,16 +1,21 @@
 {
     "name": "campaignchain/distribution-ce",
     "description": "Community Edition of CampaignChain.",
-    "keywords": ["campaignchain","community edition", "ce", "distribution"],
+    "keywords": ["campaignchain","community edition"],
     "type": "campaignchain-distribution",
     "homepage": "http://www.campaignchain.com",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Sandro Groganz",
-            "email": "sandro@campaignchain.com"
+            "name": "CampaignChain Inc.",
+            "email": "info@campaignchain.com",
+            "homepage": "http://www.campaignchain.com"
         }
     ],
+    "support": {
+        "issues": "https://github.com/CampaignChain/campaignchain-ce/issues",
+        "docs": "http://doc.campaignchain.com"
+    },
     "require": {
         "campaignchain/core": "dev-master",
         "campaignchain/campaign-scheduled": "dev-master",
