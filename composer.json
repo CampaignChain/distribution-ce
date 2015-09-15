@@ -17,20 +17,20 @@
         "docs": "http://doc.campaignchain.com"
     },
     "require": {
-        "campaignchain/core": "dev-master",
-        "campaignchain/campaign-scheduled": "dev-master",
-        "campaignchain/campaign-template": "dev-master",
-        "campaignchain/campaign-repeating": "dev-master",
-        "campaignchain/milestone-scheduled": "dev-master",
-        "campaignchain/activity-twitter": "dev-master",
-        "campaignchain/activity-facebook": "dev-master",
-        "campaignchain/activity-linkedin": "dev-master",
-        "campaignchain/activity-gotowebinar": "dev-master",
-        "campaignchain/activity-mailchimp": "dev-master",
-        "campaignchain/activity-slideshare": "dev-master",
-        "campaignchain/location-website": "dev-master",
-        "campaignchain/report-analytics-metrics-per-activity": "dev-master",
-        "campaignchain/report-analytics-cta-tracking": "dev-master"
+        "campaignchain/core": "1.0.0-beta.2",
+        "campaignchain/campaign-scheduled": "1.0.0-beta.2",
+        "campaignchain/campaign-template": "1.0.0-beta.2",
+        "campaignchain/campaign-repeating": "1.0.0-beta.2",
+        "campaignchain/milestone-scheduled": "1.0.0-beta.2",
+        "campaignchain/activity-twitter": "1.0.0-beta.2",
+        "campaignchain/activity-facebook": "1.0.0-beta.2",
+        "campaignchain/activity-linkedin": "1.0.0-beta.2",
+        "campaignchain/activity-gotowebinar": "1.0.0-beta.2",
+        "campaignchain/activity-mailchimp": "1.0.0-beta.2",
+        "campaignchain/activity-slideshare": "1.0.0-beta.2",
+        "campaignchain/location-website": "1.0.0-beta.2",
+        "campaignchain/report-analytics-metrics-per-activity": "1.0.0-beta.2",
+        "campaignchain/report-analytics-cta-tracking": "1.0.0-beta.2"
     },
     "autoload": {
         "psr-4": { "CampaignChain\\DistributionCeBundle\\": "" }
