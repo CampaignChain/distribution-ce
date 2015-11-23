@@ -39,3 +39,7 @@ modules:
         - http://store.campaignchain.com/modules/
     repositories-dev:
         - http://store.campaignchain.com/modules/dev/
+
+# A link to the terms and conditions that apply to this instance of
+# CampaignChain.
+terms_url: http://www.example.com/legal
