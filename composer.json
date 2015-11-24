@@ -17,7 +17,7 @@
         "docs": "http://doc.campaignchain.com"
     },
     "require": {
-        "campaignchain/core": "dev-master",
+        "campaignchain/core": "dev-CE-385",
         "campaignchain/campaign-scheduled": "dev-master",
         "campaignchain/campaign-template": "dev-master",
         "campaignchain/campaign-repeating": "dev-master",
