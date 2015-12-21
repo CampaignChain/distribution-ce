@@ -30,7 +30,9 @@
         "campaignchain/activity-slideshare": "dev-master",
         "campaignchain/location-website": "dev-master",
         "campaignchain/report-analytics-metrics-per-activity": "dev-master",
-        "campaignchain/report-analytics-cta-tracking": "dev-master"
+        "campaignchain/report-analytics-cta-tracking": "dev-master",
+        "campaignchain/report-google-analytics": "dev-master",
+        "campaignchain/security-authentication-server-oauth": "dev-master"
     },
     "autoload": {
         "psr-4": { "CampaignChain\\DistributionCeBundle\\": "" }
